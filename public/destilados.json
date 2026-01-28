@@ -1,0 +1,42 @@
+[
+    {
+      "id": 1,
+      "nome": "Vodka",
+      "origem": "Rússia / Polônia",
+      "descricao": "Bebida destilada, incolor e quase sem sabor. Base de 90% dos coquetéis modernos.",
+      "imagem": "/Vodka.png", 
+      "cor": "#007bff"
+    },
+    {
+      "id": 2,
+      "nome": "Gin",
+      "origem": "Holanda",
+      "descricao": "Destilado aromatizado com bagas de zimbro. Essencial para o Martini.",
+      "imagem": "/Gin.png", 
+      "cor": "#28a745"
+    },
+    {
+      "id": 3,
+      "nome": "Rum",
+      "origem": "Caribe",
+      "descricao": "Feito do melaço da cana-de-açúcar. A alma do Mojito.",
+      "imagem": "/Rum.png", 
+      "cor": "#ffc107"
+    },
+    {
+      "id": 4,
+      "nome": "Tequila",
+      "origem": "México",
+      "descricao": "Feita da planta Agave Azul. Base da Margarita.",
+      "imagem": "/Tequila.png", 
+      "cor": "#dc3545"
+    },
+    {
+      "id": 5,
+      "nome": "Whiskey",
+      "origem": "Escócia / Irlanda / EUA",
+      "descricao": "Destilado de grãos envelhecido em barris de madeira.",
+      "imagem": "/Whiskey.png", 
+      "cor": "#6c757d"
+    }
+  ]
