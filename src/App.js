@@ -46,7 +46,7 @@ function App() {
               {loading ? "Carregando..." : (filtro === "Todos" ? "Catálogo Completo" : `Sobre ${filtro}`)}
             </h2>
             {/* Dica visual para o usuário sobre o evento de teclado */}
-            {filtro !== "Todos" && <small className="text-muted">(Pressione ESC para limpar)</small>}
+            {filtro !== "Todos" && <small className="text-warning">(Pressione ESC para limpar)</small>}
         </div>
 
         {loading && <div className="text-center"><div className="spinner-border text-primary"></div></div>}
