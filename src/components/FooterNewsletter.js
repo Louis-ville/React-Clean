@@ -76,8 +76,8 @@ const FooterNewsletter = () => {
               </div>
             </form>
 
-            <div className="text-center mt-4 text-muted">
-              <small>&copy; 2026 Unioeste - Todos os direitos reservados</small>
+            <div className="text-center mt-4 text-white">
+              <small>&copy;  2026 Unioeste - Todos os direitos reservados</small>
             </div>
           </div>
         </div>
