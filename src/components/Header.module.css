@@ -2,10 +2,10 @@
 /* O React vai gerar nomes únicos para essas classes */
 .container {
     background-color: #212529; /* bg-dark do bootstrap */
-    padding: 2rem 0;
+    padding: 1rem 0;
     text-align: center;
     border-bottom: 3px solid #0d6efd; /* Borda azul */
-    margin-bottom: 2rem;
+    margin-bottom: 1rem;
 }
 
 .titulo {
